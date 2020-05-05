@@ -288,6 +288,9 @@ body .flex-container.flex-start {
   body .container .search-box {
     padding: 8px 5px;
   }
+  body .container .select-cont {
+    max-width: 50px;
+  }
   body .container .button-cont {
     max-width: 110px;
   }
